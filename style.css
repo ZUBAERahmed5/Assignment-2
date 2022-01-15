@@ -1,0 +1,34 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.mini{
+    font-size: 40px;
+    color:black ;
+    padding-top: 30px;
+}
+.flaxible-contaiter{
+    display: flex;
+}
+.kutum{
+    color: brown;
+}
+.half-width{
+    height: 8px;
+    width: 40%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 80%;
+    padding-top: 10%;
+}
+#link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(175, 117, 10), tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 28px;
+}
+.fab{
+    color: black;
+}
